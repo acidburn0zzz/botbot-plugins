@@ -12,7 +12,7 @@ setup(
     install_requires=(
         'pytest==2.3.5',
         'mock==1.0.1',
-        'requests==1.2.3',
+        'requests==2.32.0',
         'defusedxml==0.4.1',
         'fakeredis==0.3.1',
     ),
